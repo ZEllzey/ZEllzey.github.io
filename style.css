@@ -1,0 +1,59 @@
+body {
+    color: #262125 ;
+    background-color: #c3d8c3 ;
+    font-family:Arial, Helvetica, sans-serif
+    padding: 5%;
+} 
+
+h1 {
+    background-color: #396139 ;
+    font-size: 20;
+    padding: 5%;
+}
+
+h2 {
+    background-color: #5ea05e ;
+    font-size: 18;
+    padding: 3%;
+}
+
+.p1{
+    background-color: #d594b7 ;
+    margin-left: 10;
+    margin-right: 10;
+    text-indent: 3ch; 
+    font-size: 6;
+    padding: 2%;
+}
+
+.p2{
+    background-color: #d594b7 ; 
+    margin-left: 10;
+    margin-right: 10;
+    text-indent: 3ch;
+    font-size: 12;
+    padding: 2%;
+}
+
+
+a:link {
+  color: #db2084;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.box {
+    width:fit-content ;
+    height:fit-content ;
+    background-color:#396139 ;
+    border: 10px black ;
+    padding: 5% ;
+    margin: 30px ;
+}
+
